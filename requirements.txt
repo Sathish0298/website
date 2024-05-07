@@ -1,6 +1,7 @@
 numpy
 matplotlib
 torch
+docx
 seaborn
 scikit-learn
 wordcloud

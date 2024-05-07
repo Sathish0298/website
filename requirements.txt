@@ -25,3 +25,4 @@ python-dotenv
 langchain
 duckduckgo-search
 pydantic
+PendingDeprecationWarning
